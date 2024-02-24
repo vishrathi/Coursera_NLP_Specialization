@@ -1,4 +1,4 @@
-In this work, I exlored summarization using the transformer model. The following sequence of tasks were achieved.
+In this work, I explored summarization using the transformer model. The following sequence of tasks were achieved.
 
 * Use built-in functions to preprocess data
 * Implement DotProductAttention
