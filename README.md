@@ -2,4 +2,4 @@
 This repository contains code of various assignments I did as a part of Coursera's Natural Language Processing specialization. The following tasks were accomplished.
 * Summarization using transformer
 * Question answering using BERT and T5
-* Use reformer, also known as efficient Transformer, to develop a chatbot.
+* Use Reformer, also known as efficient Transformer, to develop a chatbot.
